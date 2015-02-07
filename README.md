@@ -1,5 +1,5 @@
 # CordovaLocalNotification
-Simple app using ionic framework to demostrate ng-Cordova Local Notification plugin in action.
+Simple app using ionic framework to demonstrate ng-Cordova Local Notification plugin in action.
 
 Please download Ionic Framework from http://ionicframework.com/ and ngCordova from http://ngcordova.com/ which is required by the app.
 
